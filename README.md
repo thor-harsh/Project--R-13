@@ -27,7 +27,7 @@ perc.alumni- Pct. alumni who donate.<br><br/>
 Expend- Instructional expenditure per student.<br><br/>
 Grad.Rate- Graduation rate.<br><br/>
 
-We will using Decision Tree and Random Forest for this project.
+**We will using Decision Tree and Random Forest for this project.**
 </table>
 
 **So what are you waiting for..? Jump to the code to get started. As usual for any doubt or suggestion see you in pull request section 😁😂. Thanks!**
