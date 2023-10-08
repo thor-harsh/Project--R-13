@@ -7,7 +7,7 @@ Let's start by getting the data which is included in the ISLR library, the Colle
 
 A data frame with 777 observations on the following 18 variables.<br><br/>
 
-Private A factor with levels No and Yes indicating private or public university<br>
+Private A factor with levels No and Yes indicating private or public university<br/>
 Apps Number of applications received
 Accept Number of applications accepted
 Enroll Number of new students enrolled
