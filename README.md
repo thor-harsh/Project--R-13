@@ -1,7 +1,7 @@
 # Project--R-13
 
 <table>
-In this project we will be exploring the use of tree methods to classify schools as Private or Public based off their features.
+In this project we will be exploring the use of tree methods to classify schools as Private or Public based off their features.<br></br>
   
 **We will using Decision Tree and Random Forest as our model for this project .**
 
