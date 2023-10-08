@@ -2,11 +2,11 @@
 
 <table>
 In this project we will be exploring the use of tree methods to classify schools as Private or Public based off their features.
-We will using Decision Tree and Random Forest for this project.
 
-Let's start by getting the data which is included in the ISLR library, the College data frame.
 
-A data frame with 777 observations on the following 18 variables.<br><br/>
+Let's start by getting the data which is included in the ISLR library, the College data frame.<br><br/>
+
+A data frame with 777 observations on the following 18 variables.
 
 Private- A factor with levels No and Yes indicating private or public university. <br><br/>
 Apps- Number of applications received.<br><br/>
@@ -27,6 +27,7 @@ perc.alumni- Pct. alumni who donate.<br><br/>
 Expend- Instructional expenditure per student.<br><br/>
 Grad.Rate- Graduation rate.<br><br/>
 
+We will using Decision Tree and Random Forest for this project.
 </table>
 
 **So what are you waiting for..? Jump to the code to get started. As usual for any doubt or suggestion see you in pull request section 😁😂. Thanks!**
