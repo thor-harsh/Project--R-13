@@ -7,10 +7,10 @@ Let's start by getting the data which is included in the ISLR library, the Colle
 
 A data frame with 777 observations on the following 18 variables.<br><br/>
 
-Private A factor with levels No and Yes indicating private or public university<br/>
-Apps Number of applications received
-Accept Number of applications accepted
-Enroll Number of new students enrolled
+Private- A factor with levels No and Yes indicating private or public university. <br><br/>
+Apps- Number of applications received.<br><br/>
+Accept- Number of applications accepted.<br><br/>
+Enroll- Number of new students enrolled.<br><br/>
 Top10perc Pct. new students from top 10% of H.S. class
 Top25perc Pct. new students from top 25% of H.S. class
 F.Undergrad Number of fulltime undergraduates
