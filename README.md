@@ -1,9 +1,9 @@
 # Project--R-13
 
 <table>
-In this project we will be exploring the use of tree methods to classify schools as Private or Public based off their features.<br></br>
+In this project we will be exploring the use of tree methods to classify schools as Private or Public based off their features.
   
-**We will using Decision Tree and Random Forest as our model for this project .**
+**We will using Decision Tree and Random Forest as our model for this project .** <br></br>
 
 
 Let's start by getting the data which is included in the ISLR library, the College data frame.<br><br/>
